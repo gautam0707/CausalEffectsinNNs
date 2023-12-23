@@ -3,11 +3,11 @@
 
 In each of the above folders: autompg, lungcancer, sachs, and synthetic, you will see a Jupyter notebook consisting of codes for the following papers.
 
-1. Causal Attributions *ICML 2019* [https://proceedings.mlr.press/v97/chattopadhyay19a/chattopadhyay19a.pdf]
+1. Causal Attributions (**ICML 2019**) [https://proceedings.mlr.press/v97/chattopadhyay19a/chattopadhyay19a.pdf]
    - Evaluating Average Controlled Direct Causal Effects (ACDE) in NNs 
-2. CREDO *ICML 2022* [https://proceedings.mlr.press/v162/kancheti22a/kancheti22a.pdf]
+2. CREDO (**ICML 2022**) [https://proceedings.mlr.press/v162/kancheti22a/kancheti22a.pdf]
    - Regularizing and Explaining Average Controlled Direct Causal Effects (ACDE), Average Natural Direct Causal Effects (ANDE), Average Total Causal Effects (ATCE) in NNs
-3. AHCE *AAAI 2024* [https://arxiv.org/pdf/2303.13850.pdf]
+3. AHCE (**AAAI 2024**) [https://arxiv.org/pdf/2303.13850.pdf]
    - Regularizing and Explaining Average Indirect Causal Effects (AICE) in NNs
  
 If you use our work, please consider citing the respective papers:
