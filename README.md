@@ -35,7 +35,7 @@ If you use our work, please consider citing the respective papers:
 title={Towards Learning and Explaining Indirect Causal Effects in Neural Networks},  
 booktitle={AAAI}, 
 author={Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L. Godfrey,
- Varshaneya V, Vineeth N Balasubramanian, Satya Narayan Kar}, 
+ Varshaneya V, Vineeth N Balasubramanian, Satyanarayan Kar}, 
 year={2024}
 }
 ```
