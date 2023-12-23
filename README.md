@@ -14,7 +14,8 @@ If you use our work, please consider citing the respective papers:
 ```
 @InProceedings{ca,
   title = 	 {Neural Network Attributions: A Causal Perspective},
-  author =       {Chattopadhyay, Aditya and Manupriya, Piyushi and Sarkar, Anirban and Balasubramanian, Vineeth N},
+  author =       {Chattopadhyay, Aditya and Manupriya, Piyushi and Sarkar,
+               Anirban and Balasubramanian, Vineeth N},
   booktitle = 	 {ICML},
   year = 	 {2019}
 }
@@ -22,7 +23,8 @@ If you use our work, please consider citing the respective papers:
 ```
 @InProceedings{credo,
   title = 	 {Matching Learned Causal Effects of Neural Networks with Domain Priors},
-  author =       {Kancheti, Sai Srinivas and Reddy, Abbavaram Gowtham and Balasubramanian, Vineeth N and Sharma, Amit},
+  author =       {Kancheti, Sai Srinivas and Reddy, Abbavaram Gowtham and Balasubramanian,
+             Vineeth N and Sharma, Amit},
   booktitle = 	 {ICML},
   year = 	 {2022}
 }
