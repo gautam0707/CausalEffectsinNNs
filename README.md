@@ -10,14 +10,30 @@ In each of the above folders: autompg, lungcancer, sachs, and synthetic, you wil
 3. AHCE *AAAI 2024* [https://arxiv.org/pdf/2303.13850.pdf]
    - Regularizing Average Indirect Causal Effects (AICE) in NNs
  
-If you use our work, please consider citing:
+If you use our work, please consider citing the respective papers:
 ```
-@article{ahce, 
+@InProceedings{ca,
+  title = 	 {Neural Network Attributions: A Causal Perspective},
+  author =       {Chattopadhyay, Aditya and Manupriya, Piyushi and Sarkar, Anirban and Balasubramanian, Vineeth N},
+  booktitle = 	 {ICML},
+  year = 	 {2019}
+}
+```
+```
+@InProceedings{credo,
+  title = 	 {Matching Learned Causal Effects of Neural Networks with Domain Priors},
+  author =       {Kancheti, Sai Srinivas and Reddy, Abbavaram Gowtham and Balasubramanian, Vineeth N and Sharma, Amit},
+  booktitle = 	 {ICML},
+  year = 	 {2022}
+}
+```
+
+```
+@InProceedings{ahce, 
 title={Towards Learning and Explaining Indirect Causal Effects in Neural Networks},  
-journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+booktitle={AAAI}, 
 author={Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L. Godfrey,
  Varshaneya V, Vineeth N Balasubramanian, Satya Narayanan Kar}, 
-year={2024},
-month={February}
+year={2024}
 }
 ```
